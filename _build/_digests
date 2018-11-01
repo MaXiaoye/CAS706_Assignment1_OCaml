@@ -1,0 +1,5 @@
+"Rule: ocaml dependencies ml (%=quicksort )": "\026\1388J\247\223\177\213\132^\212x@-e0"
+"Resource: D:\\eclipse\\workspace\\OCaml_test1/quicksort.ml": "\226M3\226\r\158\011\210Y\228\205\221\b\245\245\198"
+"Rule: ocaml: cmo* -> byte (%=quicksort )": "\\Q\164\247_\203\225\198\011\028\180\212u\028\235\248"
+"Rule: ocaml: ml -> cmo & cmi (%=quicksort )": "\128\231L\016\243C\247\134\206\020\161\007L\255_6"
+"Resource: D:\\eclipse\\workspace\\OCaml/quicksort.ml": "s\252\226\011\135\001{\150\018\1394C0\155%\239"
